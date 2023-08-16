@@ -1,0 +1,5 @@
+{{#user}
+Name:   Nikita Kar
+Skills: HTML, CSS, JS, React Js
+Email: nikitakar82925@gmail.com
+{{/user}}
